@@ -1,4 +1,4 @@
-### Hi I'm Bheart👋
+### Hi, I'm Bheart👋
 
 <img src="https://github.com/Bheart7/Bheart7/blob/master/3657664.jpg"
      alt="Developer activity illustration"
