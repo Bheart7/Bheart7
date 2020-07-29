@@ -7,3 +7,6 @@
 - 📫 How to reach me: bheartshrestha4@gmail.com and [Portfolio](https://upbeat-nightingale-7bb892.netlify.app/)
 - ⚡ Fun fact: I love watching football and a ronaldo fan and follow Real Madrid team.
 
+<img src="3657664.jpg"
+     alt="Developer activity illustration"
+     style="float: left; margin-right: 10px;" />
