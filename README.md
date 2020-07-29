@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Bheart7/Bheart7/blob/master/3657664.jpg"
      alt="Developer activity illustration"
-     width="200"
-     height="200"
-     align="center" />
+     width="500"
+     height="500"
+     align="middle" />
      
 ## Find me around the web 🌎:
 - 🔭 I’m currently working on projects in fightpandemics.
