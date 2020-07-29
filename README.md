@@ -4,7 +4,7 @@
      alt="Developer activity illustration"
      width="500"
      height="500"
-     align="middle" />
+     align="left" />
      
 ## Find me around the web 🌎:
 - 🔭 I’m currently working on projects in fightpandemics.
