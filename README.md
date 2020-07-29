@@ -9,4 +9,4 @@
 
 <img src="3657664.jpg"
      alt="Developer activity illustration"
-     style="float: left; margin-right: 10px;" />
+     align="right" />
