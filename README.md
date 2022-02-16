@@ -7,7 +7,7 @@
      align="left" />
      
 ## Find me around the web 🌎:
-- 🔭 I’m currently working on projects in fightpandemics.
+- 🔭 I’m currently working on projects in Clevero.
 - 🌱 I’m currently learning redux, mongodb and node.
 - 👯 I’m looking to collaborate on react projects.
 - 💬 Ask me about some react stuff.
